@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VanlubeeckA
 - 👀 I’m interested in All things STEM
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on NA
+- 💞️ I’m looking to collaborate on (Nothing at the moment)
 - 📫 How to reach me vanlubeecka@gmail.com
 
 <!---
